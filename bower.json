@@ -1,0 +1,9 @@
+{
+  "name": "foundation-admin-dashboard-template",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation": "~5.4.7",
+    "foundation-icon-fonts": "*"
+  },
+  "devDependencies": {}
+}
