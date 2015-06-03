@@ -1,6 +1,9 @@
 # foundation-admin-dashboard-template
 
 
+The template can be viewed in [http://sidnan.github.io/foundation-admin-dashboard-template/](http://sidnan.github.io/foundation-admin-dashboard-template/)
+
+
 [Foundation](http://foundation.zurb.com/docs/index.html) is the most advanced, responsive front-end framework in the world. The framework is mobile friendly and ready for you to customize it any way you want to use it.
 
 
